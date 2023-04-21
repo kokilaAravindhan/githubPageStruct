@@ -1,0 +1,44 @@
+body{
+    background-color:darkgray;
+}
+.col-12{
+    background-color: darkslategrey;
+}
+.box1{
+    background-color: black;
+    margin-top: 100px;
+    margin-left: 40px;
+    padding: 60px;
+    border-radius: 10px;
+}
+.fa{
+    color: white;
+    
+}
+.left-box{
+    background-color: black;
+    margin-top: 60px; 
+    margin-right: 90px;  
+    margin-left: 90px;
+    margin-bottom: 60px;
+    padding: 250px;
+    border-radius: 20px;
+}
+.navbar-dark{
+    background-color: black;
+    padding: 30px;
+    margin-top: 60px;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+.github-name{
+    color: white;
+    text-align: center;
+}
+.longbox{
+    background-color: black;
+    padding: 80px;
+    margin-left: 40px;
+    margin-top: 60px;
+    border-radius: 20px;
+}
